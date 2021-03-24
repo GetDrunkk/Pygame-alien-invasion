@@ -11,4 +11,4 @@ How to play:
   run  main.py/n
   
   you will see this
-![image](https://github.com/GetDrunkk/Pygame-alien-invasion/blob/main/8Y%40%24TO%25%405H)T0N49E%5DUBRPG.png)
+![image](https://github.com/GetDrunkk/Pygame-alien-invasion/blob/main/8Y@$TO%25@5H)T0N49E%5DUBRPG.png?raw=true)
